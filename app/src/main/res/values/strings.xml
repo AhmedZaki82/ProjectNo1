@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectNo1</string>
+    <string name="Name">UDACITY</string>
+    <string name="Phone">650-555-5555</string>
+    <string name="Web">www.udacity.com</string>
+    <string name="Adress">246 Latham St,\nMountain View,\nCA 94043.</string>
+    <string name="Slogan">Let\'s make \nthe difference \nbecause we \nDESERVE it.</string>
+</resources>
